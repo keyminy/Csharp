@@ -1,0 +1,10 @@
+D:\my\c#\doridori\1)String\1)String\bin\Debug\1)String.exe.config
+D:\my\c#\doridori\1)String\1)String\bin\Debug\1)String.exe
+D:\my\c#\doridori\1)String\1)String\bin\Debug\1)String.pdb
+D:\my\c#\doridori\1)String\1)String\obj\Debug\1)String.csproj.AssemblyReference.cache
+D:\my\c#\doridori\1)String\1)String\obj\Debug\_1_String.Form1.resources
+D:\my\c#\doridori\1)String\1)String\obj\Debug\_1_String.Properties.Resources.resources
+D:\my\c#\doridori\1)String\1)String\obj\Debug\1)String.csproj.GenerateResource.cache
+D:\my\c#\doridori\1)String\1)String\obj\Debug\1)String.csproj.CoreCompileInputs.cache
+D:\my\c#\doridori\1)String\1)String\obj\Debug\1)String.exe
+D:\my\c#\doridori\1)String\1)String\obj\Debug\1)String.pdb
