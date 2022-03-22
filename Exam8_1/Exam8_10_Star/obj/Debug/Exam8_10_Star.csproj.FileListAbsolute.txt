@@ -1,0 +1,7 @@
+D:\my\c#\Exam8_1\Exam8_10_Star\bin\Debug\Exam8_10_Star.exe.config
+D:\my\c#\Exam8_1\Exam8_10_Star\bin\Debug\Exam8_10_Star.exe
+D:\my\c#\Exam8_1\Exam8_10_Star\bin\Debug\Exam8_10_Star.pdb
+D:\my\c#\Exam8_1\Exam8_10_Star\obj\Debug\Exam8_10_Star.csproj.AssemblyReference.cache
+D:\my\c#\Exam8_1\Exam8_10_Star\obj\Debug\Exam8_10_Star.csproj.CoreCompileInputs.cache
+D:\my\c#\Exam8_1\Exam8_10_Star\obj\Debug\Exam8_10_Star.exe
+D:\my\c#\Exam8_1\Exam8_10_Star\obj\Debug\Exam8_10_Star.pdb

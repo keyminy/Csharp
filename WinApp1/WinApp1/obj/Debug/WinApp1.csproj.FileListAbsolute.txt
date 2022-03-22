@@ -1,0 +1,10 @@
+D:\my\c#\WinApp1\WinApp1\bin\Debug\WinApp1.exe.config
+D:\my\c#\WinApp1\WinApp1\bin\Debug\WinApp1.exe
+D:\my\c#\WinApp1\WinApp1\bin\Debug\WinApp1.pdb
+D:\my\c#\WinApp1\WinApp1\obj\Debug\WinApp1.csproj.AssemblyReference.cache
+D:\my\c#\WinApp1\WinApp1\obj\Debug\WinApp1.Form1.resources
+D:\my\c#\WinApp1\WinApp1\obj\Debug\WinApp1.Properties.Resources.resources
+D:\my\c#\WinApp1\WinApp1\obj\Debug\WinApp1.csproj.GenerateResource.cache
+D:\my\c#\WinApp1\WinApp1\obj\Debug\WinApp1.csproj.CoreCompileInputs.cache
+D:\my\c#\WinApp1\WinApp1\obj\Debug\WinApp1.exe
+D:\my\c#\WinApp1\WinApp1\obj\Debug\WinApp1.pdb

@@ -1,0 +1,7 @@
+D:\my\c#\test06_Arr\test06_Arr\bin\Debug\test06_Arr.exe.config
+D:\my\c#\test06_Arr\test06_Arr\bin\Debug\test06_Arr.exe
+D:\my\c#\test06_Arr\test06_Arr\bin\Debug\test06_Arr.pdb
+D:\my\c#\test06_Arr\test06_Arr\obj\Debug\test06_Arr.csproj.AssemblyReference.cache
+D:\my\c#\test06_Arr\test06_Arr\obj\Debug\test06_Arr.csproj.CoreCompileInputs.cache
+D:\my\c#\test06_Arr\test06_Arr\obj\Debug\test06_Arr.exe
+D:\my\c#\test06_Arr\test06_Arr\obj\Debug\test06_Arr.pdb

@@ -1,0 +1,7 @@
+D:\my\c#\Exam8_1\Exam8_7_For\bin\Debug\Exam8_7_For.exe.config
+D:\my\c#\Exam8_1\Exam8_7_For\bin\Debug\Exam8_7_For.exe
+D:\my\c#\Exam8_1\Exam8_7_For\bin\Debug\Exam8_7_For.pdb
+D:\my\c#\Exam8_1\Exam8_7_For\obj\Debug\Exam8_7_For.csproj.AssemblyReference.cache
+D:\my\c#\Exam8_1\Exam8_7_For\obj\Debug\Exam8_7_For.csproj.CoreCompileInputs.cache
+D:\my\c#\Exam8_1\Exam8_7_For\obj\Debug\Exam8_7_For.exe
+D:\my\c#\Exam8_1\Exam8_7_For\obj\Debug\Exam8_7_For.pdb

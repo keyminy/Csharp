@@ -1,0 +1,10 @@
+D:\my\c#\Exam8_1\Exam8_2\bin\Debug\Exam8_2.exe.config
+D:\my\c#\Exam8_1\Exam8_2\bin\Debug\Exam8_2.exe
+D:\my\c#\Exam8_1\Exam8_2\bin\Debug\Exam8_2.pdb
+D:\my\c#\Exam8_1\Exam8_2\obj\Debug\Exam8_2.csproj.AssemblyReference.cache
+D:\my\c#\Exam8_1\Exam8_2\obj\Debug\Exam8_2.csproj.CoreCompileInputs.cache
+D:\my\c#\Exam8_1\Exam8_2\obj\Debug\Exam8_2.exe
+D:\my\c#\Exam8_1\Exam8_2\obj\Debug\Exam8_2.pdb
+D:\my\c#\Exam8_1\Exam8_2\bin\Debug\MyLibrary.dll
+D:\my\c#\Exam8_1\Exam8_2\bin\Debug\MyLibrary.pdb
+D:\my\c#\Exam8_1\Exam8_2\obj\Debug\Exam8_2.csproj.CopyComplete

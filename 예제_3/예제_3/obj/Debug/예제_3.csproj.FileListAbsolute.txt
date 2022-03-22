@@ -1,0 +1,7 @@
+D:\my\c#\예제_3\예제_3\bin\Debug\예제_3.exe.config
+D:\my\c#\예제_3\예제_3\bin\Debug\예제_3.exe
+D:\my\c#\예제_3\예제_3\bin\Debug\예제_3.pdb
+D:\my\c#\예제_3\예제_3\obj\Debug\예제_3.csproj.AssemblyReference.cache
+D:\my\c#\예제_3\예제_3\obj\Debug\예제_3.csproj.CoreCompileInputs.cache
+D:\my\c#\예제_3\예제_3\obj\Debug\예제_3.exe
+D:\my\c#\예제_3\예제_3\obj\Debug\예제_3.pdb
