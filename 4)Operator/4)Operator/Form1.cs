@@ -1,0 +1,93 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _4_Operator {
+	public partial class Form1 : Form {
+		public Form1() {
+			InitializeComponent();
+		}
+
+		private void button1_Click(object sender, EventArgs e) {
+			// << 버튼 클릭 시 나타날 이벤트
+			int iResult = 0; //결과값 받을 변수
+			int iTemp = int.Parse(tboxResult.Text); //수식값 저장
+			int iNumber = int.Parse(tboxNumber.Text);
+			iResult = iTemp << iNumber;
+			tboxResult.Text = iResult.ToString();
+
+		}
+
+		private void tboxResult_TextChanged(object sender, EventArgs e) {
+			tboxResultBit.Text = Convert.ToString(int.Parse(tboxResult.Text),2); //bit값 표시
+			//Conver클래스의 ToSTring(,2)해서 2진수로 바꿈
+		}
+
+		private void button2_Click(object sender, EventArgs e) {
+			// >> 버튼 클릭 시 나타날 이벤트
+			int iResult = 0; //결과값 받을 변수
+			int iTemp = int.Parse(tboxResult.Text); //수식값 저장
+			int iNumber = int.Parse(tboxNumber.Text);
+			iResult = iTemp >> iNumber;
+			tboxResult.Text = iResult.ToString();
+		}
+
+		private void button4_Click(object sender, EventArgs e) {
+			//할당연산자 += 버튼
+			int iTemp = int.Parse(tboxResult.Text);
+			int iNumber = int.Parse(tboxNumber.Text);
+
+			iTemp += iNumber;
+			tboxResult.Text = iTemp.ToString();
+		}
+
+		private void button3_Click(object sender, EventArgs e) {
+			//할당연산자 -= 버튼
+			int iTemp = int.Parse(tboxResult.Text);
+			int iNumber = int.Parse(tboxNumber.Text);
+
+			iTemp -= iNumber;
+			tboxResult.Text = iTemp.ToString();
+		}
+
+		private void button6_Click(object sender, EventArgs e) {
+			// ++a
+			int iTemp = int.Parse(tboxResult.Text);
+			tboxResult.Text = (++iTemp).ToString();
+
+			tboxResultAfter.Text = iTemp.ToString();
+		}
+
+		private void button5_Click(object sender, EventArgs e) {
+			//a++
+			int iTemp = int.Parse(tboxResult.Text);
+			tboxResult.Text = (iTemp++).ToString();
+
+			tboxResultAfter.Text = iTemp.ToString();
+		}
+
+		private void button8_Click(object sender, EventArgs e) {
+			// &&
+			int iTemp1 = int.Parse(tboxResult.Text);
+			int iTemp2 = int.Parse(tboxResultAfter.Text);
+			int iNumber = int.Parse(tboxNumber.Text);
+			bool bResult = (iTemp1 > iNumber && iTemp2 > iNumber);
+			tboxAndOr.Text = bResult.ToString();
+		}
+
+		private void button7_Click(object sender, EventArgs e) {
+			// ||
+			int iTemp1 = int.Parse(tboxResult.Text);
+			int iTemp2 = int.Parse(tboxResultAfter.Text);
+			int iNumber = int.Parse(tboxNumber.Text);
+			bool bResult = (iTemp1 > iNumber || iTemp2 > iNumber);
+			tboxAndOr.Text = bResult.ToString();
+		}
+	}
+}

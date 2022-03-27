@@ -1,0 +1,10 @@
+D:\my\c#\doridori\4)Operator\4)Operator\bin\Debug\4)Operator.exe.config
+D:\my\c#\doridori\4)Operator\4)Operator\bin\Debug\4)Operator.exe
+D:\my\c#\doridori\4)Operator\4)Operator\bin\Debug\4)Operator.pdb
+D:\my\c#\doridori\4)Operator\4)Operator\obj\Debug\4)Operator.csproj.AssemblyReference.cache
+D:\my\c#\doridori\4)Operator\4)Operator\obj\Debug\_4_Operator.Form1.resources
+D:\my\c#\doridori\4)Operator\4)Operator\obj\Debug\_4_Operator.Properties.Resources.resources
+D:\my\c#\doridori\4)Operator\4)Operator\obj\Debug\4)Operator.csproj.GenerateResource.cache
+D:\my\c#\doridori\4)Operator\4)Operator\obj\Debug\4)Operator.csproj.CoreCompileInputs.cache
+D:\my\c#\doridori\4)Operator\4)Operator\obj\Debug\4)Operator.exe
+D:\my\c#\doridori\4)Operator\4)Operator\obj\Debug\4)Operator.pdb

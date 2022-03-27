@@ -1,0 +1,10 @@
+D:\my\c#\doridori\7)Array\7)Array\bin\Debug\7)Array.exe.config
+D:\my\c#\doridori\7)Array\7)Array\bin\Debug\7)Array.exe
+D:\my\c#\doridori\7)Array\7)Array\bin\Debug\7)Array.pdb
+D:\my\c#\doridori\7)Array\7)Array\obj\Debug\7)Array.csproj.AssemblyReference.cache
+D:\my\c#\doridori\7)Array\7)Array\obj\Debug\_7_Array.Form1.resources
+D:\my\c#\doridori\7)Array\7)Array\obj\Debug\_7_Array.Properties.Resources.resources
+D:\my\c#\doridori\7)Array\7)Array\obj\Debug\7)Array.csproj.GenerateResource.cache
+D:\my\c#\doridori\7)Array\7)Array\obj\Debug\7)Array.csproj.CoreCompileInputs.cache
+D:\my\c#\doridori\7)Array\7)Array\obj\Debug\7)Array.exe
+D:\my\c#\doridori\7)Array\7)Array\obj\Debug\7)Array.pdb

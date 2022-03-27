@@ -1,0 +1,10 @@
+D:\my\c#\doridori\5)Enum\5)Enum\bin\Debug\5)Enum.exe.config
+D:\my\c#\doridori\5)Enum\5)Enum\bin\Debug\5)Enum.exe
+D:\my\c#\doridori\5)Enum\5)Enum\bin\Debug\5)Enum.pdb
+D:\my\c#\doridori\5)Enum\5)Enum\obj\Debug\5)Enum.csproj.AssemblyReference.cache
+D:\my\c#\doridori\5)Enum\5)Enum\obj\Debug\_5_Enum.Form1.resources
+D:\my\c#\doridori\5)Enum\5)Enum\obj\Debug\_5_Enum.Properties.Resources.resources
+D:\my\c#\doridori\5)Enum\5)Enum\obj\Debug\5)Enum.csproj.GenerateResource.cache
+D:\my\c#\doridori\5)Enum\5)Enum\obj\Debug\5)Enum.csproj.CoreCompileInputs.cache
+D:\my\c#\doridori\5)Enum\5)Enum\obj\Debug\5)Enum.exe
+D:\my\c#\doridori\5)Enum\5)Enum\obj\Debug\5)Enum.pdb
