@@ -29,6 +29,7 @@ namespace _3_Method
 
 		}
 
+
 		private void btnMinus_Click(object sender, EventArgs e)
 		{
 			int iNumA = int.Parse(tboxNum1.Text);
