@@ -1,0 +1,10 @@
+D:\my\c#\kyojun\class부터\DeleWinformTest\bin\Debug\DeleWinformTest.exe.config
+D:\my\c#\kyojun\class부터\DeleWinformTest\bin\Debug\DeleWinformTest.exe
+D:\my\c#\kyojun\class부터\DeleWinformTest\bin\Debug\DeleWinformTest.pdb
+D:\my\c#\kyojun\class부터\DeleWinformTest\obj\Debug\DeleWinformTest.csproj.AssemblyReference.cache
+D:\my\c#\kyojun\class부터\DeleWinformTest\obj\Debug\DeleWinformTest.Form1.resources
+D:\my\c#\kyojun\class부터\DeleWinformTest\obj\Debug\DeleWinformTest.Properties.Resources.resources
+D:\my\c#\kyojun\class부터\DeleWinformTest\obj\Debug\DeleWinformTest.csproj.GenerateResource.cache
+D:\my\c#\kyojun\class부터\DeleWinformTest\obj\Debug\DeleWinformTest.csproj.CoreCompileInputs.cache
+D:\my\c#\kyojun\class부터\DeleWinformTest\obj\Debug\DeleWinformTest.exe
+D:\my\c#\kyojun\class부터\DeleWinformTest\obj\Debug\DeleWinformTest.pdb

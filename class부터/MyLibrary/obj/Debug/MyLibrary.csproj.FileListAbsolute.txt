@@ -1,0 +1,6 @@
+D:\my\c#\kyojun\class부터\MyLibrary\bin\Debug\MyLibrary.dll
+D:\my\c#\kyojun\class부터\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\my\c#\kyojun\class부터\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+D:\my\c#\kyojun\class부터\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\my\c#\kyojun\class부터\MyLibrary\obj\Debug\MyLibrary.dll
+D:\my\c#\kyojun\class부터\MyLibrary\obj\Debug\MyLibrary.pdb

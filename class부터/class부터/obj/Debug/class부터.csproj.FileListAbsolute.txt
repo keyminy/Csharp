@@ -1,0 +1,10 @@
+D:\my\c#\kyojun\class부터\class부터\bin\Debug\class부터.exe.config
+D:\my\c#\kyojun\class부터\class부터\bin\Debug\class부터.exe
+D:\my\c#\kyojun\class부터\class부터\bin\Debug\class부터.pdb
+D:\my\c#\kyojun\class부터\class부터\bin\Debug\MyLibrary.dll
+D:\my\c#\kyojun\class부터\class부터\bin\Debug\MyLibrary.pdb
+D:\my\c#\kyojun\class부터\class부터\obj\Debug\class부터.csproj.AssemblyReference.cache
+D:\my\c#\kyojun\class부터\class부터\obj\Debug\class부터.csproj.CoreCompileInputs.cache
+D:\my\c#\kyojun\class부터\class부터\obj\Debug\class부터.csproj.CopyComplete
+D:\my\c#\kyojun\class부터\class부터\obj\Debug\class부터.exe
+D:\my\c#\kyojun\class부터\class부터\obj\Debug\class부터.pdb

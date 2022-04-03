@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class부터", "class부터\class부터.csproj", "{72F0FA87-8DD7-4184-9421-D3490AE3EB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{2E53672A-7847-49F6-9FFF-F8DD505A98E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate,Event", "Delegate,Event\Delegate,Event.csproj", "{FF538814-57FB-43F0-A04D-1694358FFBDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleWinformTest", "DeleWinformTest\DeleWinformTest.csproj", "{8B26A842-0826-41F8-8779-D4A810CA22A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate,Event ConsoleMenu만들기", "Delegate,Event ConsoleMenu만들기\Delegate,Event ConsoleMenu만들기.csproj", "{A4B2470A-8E9A-423F-B452-1C8FC59E83A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate,EventHandler이용하기", "Delegate,EventHandler이용하기\Delegate,EventHandler이용하기.csproj", "{3BD9F1DF-401B-4559-83E6-AA06B30DF5FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F0FA87-8DD7-4184-9421-D3490AE3EB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F0FA87-8DD7-4184-9421-D3490AE3EB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F0FA87-8DD7-4184-9421-D3490AE3EB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F0FA87-8DD7-4184-9421-D3490AE3EB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E53672A-7847-49F6-9FFF-F8DD505A98E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E53672A-7847-49F6-9FFF-F8DD505A98E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E53672A-7847-49F6-9FFF-F8DD505A98E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E53672A-7847-49F6-9FFF-F8DD505A98E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF538814-57FB-43F0-A04D-1694358FFBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF538814-57FB-43F0-A04D-1694358FFBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF538814-57FB-43F0-A04D-1694358FFBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF538814-57FB-43F0-A04D-1694358FFBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B26A842-0826-41F8-8779-D4A810CA22A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B26A842-0826-41F8-8779-D4A810CA22A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B26A842-0826-41F8-8779-D4A810CA22A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B26A842-0826-41F8-8779-D4A810CA22A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B2470A-8E9A-423F-B452-1C8FC59E83A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B2470A-8E9A-423F-B452-1C8FC59E83A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B2470A-8E9A-423F-B452-1C8FC59E83A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B2470A-8E9A-423F-B452-1C8FC59E83A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD9F1DF-401B-4559-83E6-AA06B30DF5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD9F1DF-401B-4559-83E6-AA06B30DF5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD9F1DF-401B-4559-83E6-AA06B30DF5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD9F1DF-401B-4559-83E6-AA06B30DF5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD4D1E1-753F-4A51-8DAC-9A8F0D9D6800}
+	EndGlobalSection
+EndGlobal
